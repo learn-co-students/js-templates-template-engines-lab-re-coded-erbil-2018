@@ -9,6 +9,7 @@
 ## Introduction
 
 In this lab, we're going to be using lodash templates to create a simple blog site with posts and comments. We want to use templates to modularize the page and dynamically load new elements.
+<!--glkgmr-->
 
 Don't forget to run the tests and make sure everything works!
 
